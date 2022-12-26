@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\GRsytemproject",
+    "\\GRsytemproject\\web",
+    "\\GRsytemproject\\web\\Database"
+  ],
+  "SelectedNode": "\\GRsytemproject\\web\\Database\\webdata.sql",
+  "PreviewInSolutionExplorer": false
+}
